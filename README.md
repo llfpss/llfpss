@@ -3,7 +3,7 @@
   
 <p align="center">
 
-![____________](https://discord.c99.nl/widget/theme-5/923241366820122717.png)
+![____________](https://discord.c99.nl/widget/theme-4/923241366820122717.png)
 
 
 
