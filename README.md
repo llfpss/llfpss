@@ -8,8 +8,6 @@
 
 
 <p align="center">
-
-[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.com-blue?style=for-the-badge)](http://fnoberz.com/)
   
 
 
