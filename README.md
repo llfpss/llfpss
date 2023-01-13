@@ -38,7 +38,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/7PQVQG9cv2">
-        <img title="Shadowzin Community" alt="Shadowzin's discord" src="https://discord.c99.nl/widget/theme-5/739941420135219648.png"/>
+        <img title="Shadowzin Community" alt="Shadowzin's discord" src="https://discord.c99.nl/widget/theme-4/739941420135219648.png"/>
     </a>
 </p>
 
