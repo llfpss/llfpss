@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Fnoberz">
+  <a href="https://github.com/ShadowzinOFC?">
    <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
@@ -36,7 +36,8 @@
   <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB"></a>    
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
-  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
+  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a>
+  <img alt="Lua" src="https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua&logoColor=00648B"></a>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
 </p>
 
