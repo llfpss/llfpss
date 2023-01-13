@@ -1,17 +1,6 @@
 <h2 align="center">
-
-  
 <p align="center">
-
-![____________](https://discord.c99.nl/widget/theme-4/923241366820122717.png)
-
-
-
-<p align="center">
-  
-
-
-  
+![____________](https://discord.c99.nl/widget/theme-5/739941420135219648.png)
 
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
@@ -53,18 +42,12 @@
 - 💬 Discord [Shadowzin#0101](https://discord.com/users/739941420135219648) | [Discord Server](https://discord.gg/7PQVQG9cv2)
 
 
-</pre><br>
-
-<h2 align="center">Social media</h2>
-
-<h2 align="center"</h2>
-
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/7PQVQG9cv2">
-        <img title="Shadowzin Community" alt="Shadowzin's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Shadowzin Community" alt="Shadowzin's discord" src="https://discord.c99.nl/widget/theme-5/739941420135219648.png"/>
     </a>
 </p>
 
