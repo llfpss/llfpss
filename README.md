@@ -26,7 +26,7 @@
 
 - 👋 Hello I'am Shadowzin Full Stack Developer
 
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
+- 🎓Advanced Master in Programming / Graduated at **HarvardX University**
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
