@@ -40,39 +40,17 @@
   <img alt="Lua" src="https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua&logoColor=00648B"></a>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
 </p>
-
-
-
-<h2 align="center">My github profile stastictics.</h2>
-
-
-
-<p align="center">
-    <a href="https://github.com/Fnoberz">
-        <img src="https://github-streak.herokuapp.com/Fnoberz?theme=dark" alt="" />
-    </a>
-</p><br>
-<a href="https://github.com/Fnoberz"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
-
-
 
 <h2 align="center">Contact me</h2>
 
-
-- 📌 Information about all Products [Information](https://github.com/Cloud-Official/Product)
-
-- 👋 Hello I'am Fnoberz Full Stack Developer
+- 👋 Hello I'am Shadowzin Full Stack Developer
 
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
-
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
-
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
+- 💬 Discord [Shadowzin#0101](https://discord.com/users/739941420135219648) | [Discord Server](https://discord.gg/7PQVQG9cv2)
 
 
 </pre><br>
@@ -81,19 +59,15 @@
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Sarnaxdm)
-<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/UNFAIR | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
-<a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+    <a href="https://discord.gg/7PQVQG9cv2">
+        <img title="Shadowzin Community" alt="Shadowzin's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
 
 </p>
 
-<h2 align="center"> Copyright © 2020 - 2022  
+<h2 align="center"> Copyright © 2018 - 2023  
