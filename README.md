@@ -1,9 +1,3 @@
-<h2 align="center">
-  <p align="center"> 
-    <a href="https://github.com/ShadowzinOFC?">
-      <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-  
-
 <h2 align="center">Programming Languages</h2>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=dart&logoColor=097CDB">
