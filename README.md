@@ -6,13 +6,13 @@
   
 <h2 align="center">Contact Me</h2>
 
-- 👋 Hello, I'm Shadowzin, a Full Stack Developer
+- 👋 Greetings! I'm Shadowzin, a specialized in Python and Lua.
 
-- 🎓 Advanced Master in Programming / Graduated from **HarvardX University**
+- 🎓 Proud holder of an Advanced Master's in Programming from **HarvardX University**.
 
-- 🛒 Offering `PRIVATE CHEAT , SOURCE CODE , SPOOFER - JOIN DISCORD`
+- 🛒 Offering `PRIVATE CHEAT, SOURCE CODE, SPOOFER - JOIN DISCORD`.
 
-- 💬 Discord: [shadowzinofc]
+- 💬 Reach out to me on Discord: [shadowzinofc]
 
 </p>
 
