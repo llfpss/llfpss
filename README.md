@@ -14,7 +14,7 @@
 
 - 💬 Reach out to me on Discord: [shadowzinofc]
 
-- https://www.youtube.com/@wggae
+- https://www.youtube.com/@wggael
 
 - https://www.youtube.com/@ShadowCraftverse
 
