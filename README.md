@@ -14,6 +14,12 @@
 
 - 💬 Reach out to me on Discord: [shadowzinofc]
 
+- https://www.youtube.com/@wggae
+
+- https://www.youtube.com/@ShadowCraftverse
+
+- https://www.tiktok.com/@shadowcraftverse
+
 </p>
 
 <h2 align="center"> Copyright © 2018 - 2023 </h2>
