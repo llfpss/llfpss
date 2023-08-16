@@ -10,7 +10,7 @@
 
 - 🎓 Proud holder of an Advanced Master's in Programming from **HarvardX University**.
 
-- 🛒 Offering `PRIVATE CHEAT, SOURCE CODE, SPOOFER - JOIN DISCORD`.
+- 🛒 Offering `Lua/python scripts, JOIN DISCORD`.
 
 - 💬 Reach out to me on Discord: [shadowzinofc]
 
