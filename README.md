@@ -1,18 +1,8 @@
 ### Olá! 🖐🤙 Me chamo Matheus!
 
-<!--
-
-- 🔭 Progamador Full Stack PHP 💻🤓
-- 🌱 Cursando Engenharia de Software na UDESC
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-- 🔭 Programador Full Stack (PHP) 💻
-- 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale 🤓
-- 👨‍🎓 Egresso do curso técnico em informática integrado ao ensino médio do IFC campus Ibirama
+- 🔭 Programador Junior (Lua, Python, Css and JavaScript)
+- 🛡️ Distributed Denial of Service (Protetor DDoS and DOS tester)
+- ₿ Crypto Investidor
 
 <div align="left">
   <a href="https://github.com/llfpss">
